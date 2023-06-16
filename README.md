@@ -1,1 +1,1 @@
-My Minecraft shaders config
+My Minecraft shaders' config
